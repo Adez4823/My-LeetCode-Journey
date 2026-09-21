@@ -8,19 +8,11 @@ A repository containing my approaches to LeetCode problems, my final code soluti
 - Document the mistakes I made and the ideas I have learned throughout this journey
 - Ultimately, I aim to solidify my understanding of DSAs in order to apply them to real applications
 
-## Current Progression
-
-| Difficulty | Solved |
-|------------|--------|
-| Easy       | 0      |
-| Medium     | 0      |
-| Hard       | 0      |
-
 ## Structure
 Each problem is stored in their respective difficulty folder
 
-EASY
-MEDIUM
+EASY\
+MEDIUM\
 HARD
 
 Each problem contains:
@@ -30,3 +22,11 @@ README.md
 - What I learned
 Code Solution
 - .py/java/c/cpp/etc file
+
+## Current Progression
+
+| Difficulty | Solved |
+|------------|--------|
+| Easy       | 0      |
+| Medium     | 0      |
+| Hard       | 0      |
