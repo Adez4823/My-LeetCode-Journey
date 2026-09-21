@@ -15,13 +15,13 @@ EASY\
 MEDIUM\
 HARD
 
-Each problem contains:\
-README.md 
-- Initial approach and thoughts
-- Final thoughts
-- What I learned\
-Code Solution
-- .py/java/c/cpp/etc file
+Each problem contains:
+- README.md 
+    * Initial approach and thoughts
+    * Final thoughts
+    * What I learned
+- Code Solution
+    * .py/java/c/cpp/etc file
 
 ## Current Progression
 
