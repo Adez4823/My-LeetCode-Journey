@@ -1,0 +1,14 @@
+My initial thoughts are this this should be relatively simple to find with nested for loops,
+which would be O(n^2) time complexity, I am unsure about how I can get to O(n) time complexity.
+I decided that, for now, I will use a nested for loop.
+
+Final Thoughts:
+As I expected, my program was slower than most. I also had mistakenly had i and j set to values
+when I was iterating through the array rather than having them set to indicies, leading to out of range errors.
+I also looked at the solution and saw that a hash table can be used to make a program that runs in
+O(n) time complexity.
+
+What I learned:
+When iterating through arrays in Python, specify if you want the indicies. 
+"for i in num_arr:" will have i set to the values in num_arr.
+I learned how to use a hash table in python.
