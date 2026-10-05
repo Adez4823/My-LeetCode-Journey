@@ -16,7 +16,7 @@ MEDIUM\
 HARD
 
 Each problem contains:
-- README.md 
+- Text File
     * Initial approach and thoughts
     * Final thoughts
     * What I learned

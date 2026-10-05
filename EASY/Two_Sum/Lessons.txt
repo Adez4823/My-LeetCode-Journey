@@ -9,6 +9,6 @@ I also looked at the solution and saw that a hash table can be used to make a pr
 O(n) time complexity.
 
 What I learned:
-When iterating through arrays in Python, specify if you want the indicies. 
+When iterating through arrays in Python, specify if you want the indicies, 
 "for i in num_arr:" will have i set to the values in num_arr.
 I learned how to use a hash table in python.

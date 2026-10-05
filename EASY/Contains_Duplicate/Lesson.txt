@@ -1,0 +1,10 @@
+Initial Approach:
+I immediately thought about the two sum's hashing approach, I could just enter in all values 
+of the nums array into the set and then check the map for each new value to see if it is inside it.
+
+Final thoughts:
+This problem was pretty straightforward, since set() does all of the work basically.
+
+What I learned:
+set() doesn't allow duplicates, so this application is best if the only thing
+you're searching for is duplicates.
